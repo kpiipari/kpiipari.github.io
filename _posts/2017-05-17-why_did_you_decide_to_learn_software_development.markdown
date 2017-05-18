@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  Why did you decide to learn software development?
-date:   2017-05-17 22:20:41 +0000
+date:   2017-05-17 18:20:42 -0400
 ---
 
 
-I have been learning a bit of code here and there for about 10 years or so. I have tried a bit of JavaScript, Ruby, Python, Switf and even a bit of C. After I finished my PhD in biomedical sciences, I started to work for a small start up company doing customer support and later testing the software product. Gradually, my role grew more and more technical -- and I loved it. I learned to use git and terminal commands, write Gherkin BDD specs, use Xcode, read crash reports etc. 
+I have been learning a bit of code here and there for about 10 years or so. I have tried a bit of JavaScript, Ruby, Python, Swift and even a bit of C. After I finished my PhD in biomedical sciences, I started to work for a small start up company doing customer support and later testing the software product. Gradually, my role grew more and more technical -- and I loved it. I learned to use git and terminal commands, write Gherkin BDD specs, use Xcode, read crash reports etc. 
 
 I was (and still am) testing native Mac, iOS and Windows applications, all of which require a lot of manual testing. I became interested in automated UI testing (since Apple started to offer this with Xcode 7 and above) and thinking of ways how I could automate some of the other testing aspects as well. In order to achive this, I need to be able to read and write test scripts that can be written with JavaScript and Ruby for instance. 
 
