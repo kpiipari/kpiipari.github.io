@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "MathOwl React-Redux project"
+title:      "MathOwl React-Redux Portfolio Project"
 date:       2018-05-22 03:35:25 -0400
 permalink:  mathowl_-_my_react-redux_project
 ---
