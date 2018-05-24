@@ -29,4 +29,4 @@ I decided to use [Semantic UI React](https://react.semantic-ui.com/introduction)
 
 Once my application was working just with React, I added Redux that allows an easy to way to manage the application state. I used [Redux Thunk](https://github.com/reduxjs/redux-thunk) middleware that provides a convenient way for action creators to return ('dispatch') functions, and not just actions.  This is crucial when making asynchronous API calls with `fetch`.
 
-To be continued...
+See [my post ](http://kaisapiipari.com/redux_actions_and_action_creators) about Redux actions and action creators 
