@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Redux actions and action creators"
-date:       2018-05-24 22:34:04 +0000
+date:       2018-05-24 18:34:05 -0400
 permalink:  redux_actions_and_action_creators
 ---
 
@@ -53,3 +53,5 @@ export function fetchGameRound(gameRoute) {
 ```
 
 Actions are the only way to provide any information and data to a Redux store. The store holds the application state and it’s the only way to get access to the state and update the state.
+
+Reference: https://redux.js.org/basics/actions
